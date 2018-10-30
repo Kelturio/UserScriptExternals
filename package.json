@@ -1,0 +1,23 @@
+{
+  "name": "UserScriptExternals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelturio/UserScriptExternals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelturio/UserScriptExternals/issues"
+  },
+  "homepage": "https://github.com/Kelturio/UserScriptExternals#readme",
+  "dependencies": {
+    "zen-observable": "^0.8.10"
+  }
+}
